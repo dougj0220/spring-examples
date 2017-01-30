@@ -1,0 +1,1 @@
+Demonstration code of an RxNetty Jersey 2 Container utilizing Spring Framework for Dependency Injection. This is demo code only. For other cool demo's and articles visit http://sleeplessinslc.blogspot.com

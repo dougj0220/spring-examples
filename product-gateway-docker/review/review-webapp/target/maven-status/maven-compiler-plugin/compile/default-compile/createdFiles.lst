@@ -1,0 +1,4 @@
+com/welflex/review/Application.class
+com/welflex/review/rest/ProductReviewResource.class
+com/welflex/review/service/ProductReviewServiceImpl.class
+com/welflex/review/service/ProductReviewService.class

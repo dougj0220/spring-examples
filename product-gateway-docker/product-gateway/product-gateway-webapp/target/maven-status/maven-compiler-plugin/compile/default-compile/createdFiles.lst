@@ -1,0 +1,8 @@
+com/welflex/product/client/InventoryClient.class
+com/welflex/product/client/PriceClient.class
+com/welflex/product/service/ProductServiceImpl.class
+com/welflex/product/Application.class
+com/welflex/product/service/ProductService.class
+com/welflex/product/client/ReviewsClient.class
+com/welflex/product/rest/ObservableProductResource.class
+com/welflex/product/client/BaseProductClient.class

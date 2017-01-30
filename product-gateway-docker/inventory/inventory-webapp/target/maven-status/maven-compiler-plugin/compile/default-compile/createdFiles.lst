@@ -1,0 +1,5 @@
+com/welflex/inventory/service/InventoryServiceImpl.class
+com/welflex/inventory/Application.class
+com/welflex/inventory/model/ProductInventory.class
+com/welflex/inventory/service/InventoryService.class
+com/welflex/inventory/rest/InventoryResource.class

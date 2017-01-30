@@ -1,0 +1,6 @@
+com/welflex/product/service/ProductServiceImpl.class
+com/welflex/product/Application.class
+com/welflex/product/service/ProductService.class
+com/welflex/product/model/Product.class
+com/welflex/product/rest/BaseProductResource.class
+com/welflex/product/model/ProductOption.class
